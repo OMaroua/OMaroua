@@ -70,7 +70,6 @@
 <p align="center">
   <a href="mailto:marouaoukrid56@gmail.com"><img src="https://img.shields.io/badge/Email-marouaoukrid56@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/Maroua-Oukrid"><img src="https://img.shields.io/badge/LinkedIn-Maroua_Oukrid-blue?style=flat&logo=linkedin"/></a>
-  <a href="https://github.com/MarouaOukrid"><img src="https://img.shields.io/badge/GitHub-Maroua_Oukrid-181717?style=flat&logo=github"/></a>
 </p>
 
 ---
