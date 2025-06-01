@@ -1,27 +1,91 @@
-# 👋 Hi, I'm Maroua Oukrid
+<h1 align="center">Hi 👋, I'm Maroua Oukrid</h1>
+<h3 align="center">AI ⚙️ | Computer Vision 👁️ | Embedded Systems 💻 | FPGA 🔧</h3>
 
-I'm Maroua Oukrid, an AI and embedded systems engineer with dual master's degrees from Illinois Institute of Technology and ENSEIRB-MATMECA. My work bridges machine learning, computer vision, and real-time systems—from deploying CNNs on FPGAs for human detection to building multimodal threat recognition pipelines on Jetson platforms. I thrive at the intersection of hardware and AI, especially when it advances precision healthcare or smart automation. Whether it’s semantic segmentation, reinforcement learning, or FPGA prototyping, I’m driven by building systems that are fast, explainable, and impactful.
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6ZsYg5dZ8eQf3Tlu/giphy.gif" width="200"/>
+</p>
 
 ---
 
-## 🔧 Skills
-- **AI/ML:** Semantic Segmentation, Reinforcement Learning, Anomaly Detection, Explainable AI
-- **CV/Embedded:** PyTorch, TensorFlow, OpenCV, NVIDIA Jetson, FPGA (CrossLink-NX, NexysA7)
-- **Languages:** Python, C++, Java, MATLAB, VHDL
-- **Tools:** Docker, GitHub Actions, Hugging Face, Streamlit, FastAPI
+💡 I'm an AI and embedded systems engineer passionate about building intelligent, real-time systems. With dual master's degrees from Illinois Tech and ENSEIRB-MATMECA, I thrive at the intersection of machine learning, computer vision, and edge deployment. Whether it’s optimizing semantic segmentation for NVIDIA GPUs or deploying CNNs on FPGAs, I design systems that are fast, explainable, and impactful—especially in healthcare and robotics.
 
-## 📌 Notable Projects
-- 🔍 **Autonomous RL-Based Threat Detection Robot**
-- ⚡ **Real-Time DDRNet Semantic Segmentation (63.92% mIoU)**
-- 🧠 **CNN from Scratch (NumPy + C++)**
-- 🧰 **IoT Hub for Smart Plugs (Spring Boot + MQTT + TLS)**
-- 🔐 **Grad-CAM Explainability on Backdoored ResNet**
+---
 
-## 🏆 Awards & Honors
-- Aquitaine Scholarship – Regional Excellence (2024)
-- Study Abroad Fellowship – ENSEIRB-MATMECA → IIT (2024)
-- Merit Scholarship – Academic Excellence (2022)
+### 🔧 Technologies & Tools
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maroua_Oukrid-blue?style=flat&logo=linkedin)](https://linkedin.com/in/Maroua-Oukrid)
-[![Email](https://img.shields.io/badge/Email-marouaoukrid56@gmail.com-red?style=flat&logo=gmail)](mailto:marouaoukrid56@gmail.com)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FPGA-CrossLinkNX-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NVIDIA-Jetson-green?style=for-the-badge&logo=nvidia"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+#### 🔍 Autonomous Threat Detection Robot (Jetson + RL + CV + NLP)
+
+- 💥 Real-time detection of suspects using YOLOv8 + BLIP + MobileNetV2-BiLSTM  
+- 🤖 Multi-agent RL for suspect pursuit  
+- 📈 Custom FastAPI dashboard with WebSocket streaming  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/IuGI4SHxP1u6zB5AHq/giphy.gif" width="600"/>
+</p>
+
+---
+
+#### 🎯 DDRNet23-Slim for Real-Time Semantic Segmentation
+
+- 🧠 Achieved 63.92% mIoU on CamVid @ 102 FPS  
+- 🔁 Deep supervision and multi-resolution fusion  
+- ⚡ Optimized PyTorch pipeline with AMP + DDP  
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/12345678/demo-segmentation.gif" width="600"/>
+</p>
+
+---
+
+#### 🔐 Backdoor Explainability with Grad-CAM
+
+- 🧪 Simulated adversarial triggers on ResNet50  
+- 🔬 Used Grad-CAM to visualize model vulnerabilities  
+- 📉 Compared clean vs. poisoned inference  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QU3DdI4ZJtkhMGnLMu/giphy.gif" width="600"/>
+</p>
+
+---
+
+### 🧰 More Projects
+- 📡 Smart Plug IoT Hub (Spring Boot + MQTT + TLS)
+- 🧮 CNN From Scratch (NumPy + C++)
+- 🎧 Audio Playback System on PIC32
+- 🧊 Sonar-Based AR/VR Distance Estimator on FPGA
+
+---
+
+### 🏆 Awards
+- 🎓 Aquitaine Regional Scholarship (2024)
+- 🌍 Study Abroad Engineering Grant (2024)
+- 🥇 Merit Scholarship for Academic Excellence (2022)
+
+---
+
+### 📫 Let’s Connect!
+
+<p align="center">
+  <a href="mailto:marouaoukrid56@gmail.com"><img src="https://img.shields.io/badge/Email-marouaoukrid56@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/Maroua-Oukrid"><img src="https://img.shields.io/badge/LinkedIn-Maroua_Oukrid-blue?style=flat&logo=linkedin"/></a>
+  <a href="https://github.com/MarouaOukrid"><img src="https://img.shields.io/badge/GitHub-Maroua_Oukrid-181717?style=flat&logo=github"/></a>
+</p>
+
+---
+
+<p align="center"><i>"Build fast. Explain clearly. Deploy anywhere." 🚀</i></p>
