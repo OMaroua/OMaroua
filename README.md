@@ -4,7 +4,7 @@
 
 ---
 
-💡 I'm an AI and embedded systems engineer passionate about building intelligent, real-time systems. With dual master's degrees from Illinois Tech and ENSEIRB-MATMECA, I thrive at the intersection of machine learning, computer vision, and edge deployment. Whether it’s optimizing semantic segmentation for NVIDIA GPUs or deploying CNNs on FPGAs, I design systems that are fast, explainable, and impactful—especially in healthcare and robotics.
+💡 I'm an AI and embedded systems engineer passionate about building intelligent, real-time systems. With dual master's degrees from Illinois Tech and ENSEIRB-MATMECA, I thrive at the intersection of machine learning, computer vision, and edge deployment. Whether it’s optimizing semantic segmentation for NVIDIA GPUs or deploying CNNs on FPGAs, I design systems that are fast, explainable, and impactful especially in healthcare and robotics.
 
 ---
 
