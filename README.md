@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Maroua Oukrid
 
-<!--
-**OMaroua/OMaroua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Education:**
+- Master of Engineering in Artificial Intelligence, Illinois Institute of Technology
+- Master of Engineering in Electronics, ENSEIRB-MATMECA (Bordeaux INP)
 
-Here are some ideas to get you started:
+💼 **Experience:**
+- AI & Embedded Systems Intern at CATIE
+- Intern at Medical Equipment Maintenance Department, CHU Mohammed VI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Skills:**
+- Machine Learning & AI: Semantic Segmentation, Anomaly Detection, Reinforcement Learning
+- Programming Languages: Python, C/C++, Java, MATLAB
+- Tools: TensorFlow, PyTorch, OpenCV, Docker
+
+📫 **Contact Me:**
+- Email: marouaoukrid56@gmail.com
+- LinkedIn: [linkedin.com/in/Maroua-Oukrid](https://linkedin.com/in/Maroua-Oukrid)
