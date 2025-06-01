@@ -33,10 +33,6 @@
 - 🤖 Multi-agent RL for suspect pursuit  
 - 📈 Custom FastAPI dashboard with WebSocket streaming  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/IuGI4SHxP1u6zB5AHq/giphy.gif" width="600"/>
-</p>
-
 ---
 
 #### 🎯 DDRNet23-Slim for Real-Time Semantic Segmentation
@@ -45,9 +41,6 @@
 - 🔁 Deep supervision and multi-resolution fusion  
 - ⚡ Optimized PyTorch pipeline with AMP + DDP  
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/12345678/demo-segmentation.gif" width="600"/>
-</p>
 
 ---
 
@@ -57,9 +50,6 @@
 - 🔬 Used Grad-CAM to visualize model vulnerabilities  
 - 📉 Compared clean vs. poisoned inference  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/QU3DdI4ZJtkhMGnLMu/giphy.gif" width="600"/>
-</p>
 
 ---
 
