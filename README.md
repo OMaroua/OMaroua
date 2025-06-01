@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maroua Oukrid</h1>
 <h3 align="center">AI ⚙️ | Computer Vision 👁️ | Embedded Systems 💻 | FPGA 🔧</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6ZsYg5dZ8eQf3Tlu/giphy.gif" width="200"/>
-</p>
 
 ---
 
