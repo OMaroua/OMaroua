@@ -14,11 +14,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate Pulse SVG
-        run: |
-          mkdir -p dist
-          curl https://raw.githubusercontent.com/yassinebridi/github-contributions-graph-heart/main/github-pulse.svg > dist/github-pulse.svg
-
+      - name: Copy Heart SVG to Dist
+        run: | 
+          mkdir -p dist 
+          cp .github/snkgif/template.svg dist/github-heart.svg
+          
       - name: Deploy to GitHub Pages Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
