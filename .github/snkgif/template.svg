@@ -1,6 +1,23 @@
-<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-  <circle id="pulse" cx="50" cy="50" r="20" fill="red">
-    <animate attributeName="r" values="20;25;20" dur="1s" repeatCount="indefinite"/>
-    <animate attributeName="fill-opacity" values="1;0.5;1" dur="1s" repeatCount="indefinite"/>
-  </circle>
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <path
+    id="heart"
+    d="M100 170s-60-35-60-90c0-22 18-40 40-40 12 0 24 6 30 16 6-10 18-16 30-16 22 0 40 18 40 40 0 55-60 90-60 90z"
+    fill="red"
+  >
+    <animateTransform
+      attributeName="transform"
+      type="scale"
+      values="1;1.1;1"
+      dur="1s"
+      repeatCount="indefinite"
+      additive="sum"
+      accumulate="none"
+    />
+    <animate
+      attributeName="fill-opacity"
+      values="1;0.6;1"
+      dur="1s"
+      repeatCount="indefinite"
+    />
+  </path>
 </svg>
