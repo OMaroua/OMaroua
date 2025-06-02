@@ -82,5 +82,9 @@ When I’m not coding, you’ll probably find me doing something that brings me 
 
 ![snake gif](https://github.com/OMaroua/OMaroua/blob/output/github-snake-dark.svg)
 
+### 💓 My GitHub Pulse
+
+![GitHub Pulse](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-pulse.svg)
+
 
 <p align="center"><i>"Build fast. Explain clearly. Deploy anywhere." 🚀</i></p>
