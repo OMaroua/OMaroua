@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Maroua Oukrid</h1>
-<h3 align="center">AI ⚙️ | Computer Vision 👁️ | Embedded Systems 💻 | FPGA 🔧</h3>
+<h3 align="center">AI  | Computer Vision  | Embedded Systems | FPGA </h3>
 
 
 ---
 
-💡 I'm an AI and embedded systems engineer passionate about building intelligent, real-time systems. With dual master's degrees from Illinois Tech and ENSEIRB-MATMECA, I thrive at the intersection of machine learning, computer vision, and edge deployment. Whether it’s optimizing semantic segmentation for NVIDIA GPUs or deploying CNNs on FPGAs, I design systems that are fast, explainable, and impactful especially in healthcare and robotics.
+I'm an AI and embedded systems engineer passionate about building intelligent, real-time systems. With dual master's degrees from Illinois Tech and ENSEIRB-MATMECA, I thrive at the intersection of machine learning, computer vision, and edge deployment. Whether it’s optimizing semantic segmentation for NVIDIA GPUs or deploying CNNs on FPGAs, I design systems that are fast, explainable, and impactful especially in healthcare and robotics.
 
 ---
 
@@ -26,42 +26,42 @@
 
 #### 🔍 Autonomous Threat Detection Robot (Jetson + RL + CV + NLP)
 
-- 💥 Real-time detection of suspects using YOLOv8 + BLIP + MobileNetV2-BiLSTM  
-- 🤖 Multi-agent RL for suspect pursuit  
-- 📈 Custom FastAPI dashboard with WebSocket streaming  
+-  Real-time detection of suspects using YOLOv8 + BLIP + MobileNetV2-BiLSTM  
+-  Multi-agent RL for suspect pursuit  
+-   Custom FastAPI dashboard with WebSocket streaming  
 
 ---
 
 #### 🎯 DDRNet23-Slim for Real-Time Semantic Segmentation
 
-- 🧠 Achieved 63.92% mIoU on CamVid @ 102 FPS  
-- 🔁 Deep supervision and multi-resolution fusion  
-- ⚡ Optimized PyTorch pipeline with AMP + DDP  
+-  Achieved 63.92% mIoU on CamVid @ 102 FPS  
+-  Deep supervision and multi-resolution fusion  
+-  Optimized PyTorch pipeline with AMP + DDP  
 
 
 ---
 
 #### 🔐 Backdoor Explainability with Grad-CAM
 
-- 🧪 Simulated adversarial triggers on ResNet50  
-- 🔬 Used Grad-CAM to visualize model vulnerabilities  
-- 📉 Compared clean vs. poisoned inference  
+-  Simulated adversarial triggers on ResNet50  
+-  Used Grad-CAM to visualize model vulnerabilities  
+-  Compared clean vs. poisoned inference  
 
 
 ---
 
 ### 🧰 More Projects
-- 📡 Smart Plug IoT Hub (Spring Boot + MQTT + TLS)
-- 🧮 CNN From Scratch (NumPy + C++)
-- 🎧 Audio Playback System on PIC32
-- 🧊 Sonar-Based AR/VR Distance Estimator on FPGA
+-  Smart Plug IoT Hub (Spring Boot + MQTT + TLS)
+-  CNN From Scratch (NumPy + C++)
+-  Audio Playback System on PIC32
+-  Sonar-Based AR/VR Distance Estimator on FPGA
 
 ---
 
 ### 🏆 Awards
-- 🎓 Aquitaine Regional Scholarship (2024)
-- 🌍 Study Abroad Engineering Grant (2024)
-- 🥇 Merit Scholarship for Academic Excellence (2022)
+-  Aquitaine Regional Scholarship (2024)
+-  Study Abroad Engineering Grant (2024)
+-  Merit Scholarship for Academic Excellence (2022)
 
 ---
 
