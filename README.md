@@ -9,9 +9,9 @@ I'm an AI and embedded systems engineer passionate about building intelligent, r
 ---
 ### 🌿 Outside of Tech
 
-When I’m not coding or building AI systems, you’ll probably find me doing something that brings me joy and balance. 🎼 I’ve been playing piano for years—music keeps me grounded. 🐎 I love horseback riding, 🏊‍♀️ swimming, and escaping into nature whenever I can. ♟️ Chess is my favorite mental reset, and I never travel without a book (or two). ✈️📚
+When I’m not coding, you’ll probably find me doing something that brings me joy and balance. 🎼 I’ve been playing piano for years, music keeps me grounded. 🐎 I love horseback riding, 🏊‍♀️ swimming, and escaping into nature whenever I can. ♟️ Chess is my favorite mental reset, and I never travel without a book (or two). ✈️📚
+🗣️ I also love debate and deep conversations, whether it’s ideas, books, or experiences, I’m always learning from the world around me.
 
-🗣️ I also love debate and deep conversations—whether it’s ideas, books, or experiences, I’m always learning from the world around me.
 ---
 ### 🔧 Technologies & Tools
 
