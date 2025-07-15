@@ -27,6 +27,19 @@ When I’m not coding, you’ll probably find me doing something that brings me 
 </p>
 
 ---
+### Check my last project !
+##  MediBot – Medical LLM Chatbot  
+**LangChain · Pinecone · GPT-3.5 · Streamlit**  
+Interactive medical assistant using retrieval-augmented generation (RAG) to provide context-aware answers to health-related queries.
+
+- Built semantic search pipeline with LangChain + Pinecone  
+- Integrated OpenAI API for natural language answers  
+- Designed user-friendly Streamlit interface  
+- Handles document chunking, embedding, and real-time query processing  
+
+🔗 [GitHub Repo](https://github.com/OMaroua/MedicalChatbot)
+
+---
 
 ###  Featured Projects
 
