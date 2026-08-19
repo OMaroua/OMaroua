@@ -1,23 +1,16 @@
-# Maroua Oukrid | AI for Healthcare & Computer Vision Researcher
-
-I'm Maroua, an AI researcher and electrical/computer engineer with dual master's degrees from Illinois Tech and ENSEIRB-MATMECA. I focus on building explainable, real-time AI systems for healthcare applications. Current work:
-
-- Developing AI diagnostic tools for medical imaging
-- Exploring edge AI deployment on NVIDIA Jetson and FPGAs
-- Research in explainable AI and model interpretability
-- Optimizing deep learning models for real-time inference
-
-## Research Interests:
-
-- **Healthcare AI**: Medical imaging, diagnostic systems, patient care technologies
-- **Computer Vision**: Semantic segmentation, real-time object detection
-- **Edge AI**: Neural network deployment on embedded systems and FPGAs
-- **Explainable AI**: Model interpretability and trustworthy AI systems
-
-## Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Maroua-Oukrid)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:marouaoukrid56@gmail.com)
+# Maroua Oukrid
+ 
+PhD student in Electrical and Computer Engineering at Illinois Tech (ECASP Lab).
+ 
+I work on AI for medical imaging — mainly CNN model observers that can stand in for human radiologists when evaluating image quality, so you don't need a full reader study every time. Also full-covariance VAEs and latent space modeling.
+ 
+Before this: master's in AI for computer vision at Illinois Tech, MS/BS in signal and image processing at ENSEIRB-MATMECA (Bordeaux). Summers spent putting MobileNet on an FPGA at CATIE and building sensor monitoring for a hospital in Oujda.
+ 
+**Interests:** medical image quality assessment · explainable AI · generative models · real-time segmentation · edge deployment (Jetson, FPGA)
+ 
+**Tools:** Python, PyTorch, C++, MATLAB, OpenCV, Docker
+ 
+[LinkedIn](https://linkedin.com/in/Maroua-Oukrid) · [Portfolio](https://omaroua.github.io/html-css-js-portfolio) · marouaoukrid56@gmail.com
 
 ## Tech Stack:
 
