@@ -2,7 +2,7 @@
  
 PhD student in Electrical and Computer Engineering at Illinois Tech (ECASP Lab).
 
-**Interests:** medical image quality assessment · explainable AI · generative models · real-time segmentation · edge deployment (Jetson, FPGA)
+**Interests:** medical imaging · explainable AI · generative models · real-time segmentation · edge deployment (Jetson, FPGA)
  
 **Tools:** Python, PyTorch, C++, MATLAB, OpenCV, Docker
  
